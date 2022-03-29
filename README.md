@@ -7,5 +7,6 @@ This experience can be accessed via any XR enabled device:
   - Android (Native browser support)
   - iOS (with Mozilla WebXR Viewer)
 
-To try the experience yourself, please follow the link below;
+To try the experience yourself, please follow the link below:
+https://calebcram.github.io/WebXR-MRTK-HandInteraction/
 
